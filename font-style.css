@@ -1,0 +1,38 @@
+body{
+  background-color:#27282c;
+}
+.quote{
+  font-family:"Special Elite";
+  font-size: 1.3vw;
+  font-weight: bold;
+  margin-top: 1.3vh;
+}
+.des{
+ font-family: "Rajdhani";
+ font-size:1rem;
+ margin-top: -1.2vh;
+ font-weight: bold;
+ padding-bottom:4vh;
+}
+.card-1-II-heading{
+    font-family: "Graduate";
+}
+
+@media(max-width:600px)
+{
+  
+.quote{
+    font-family:"Special Elite";
+    font-size: 4vw;
+    font-weight: bold;
+    margin-top: 1vh; 
+  }
+  .des{
+   font-family: "Rajdhani";
+   font-size:0.8rem;
+   margin-top: 1.2vh;
+   font-weight: bold;
+   padding-bottom:4vh;
+  }
+      
+}
